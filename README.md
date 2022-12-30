@@ -25,6 +25,8 @@ Following are the steps to briefly describe the training and evaluation process:
 
 10. After the 10th fold the history dictionery contains the final test accuracy which is around 88%.
 
+11. The predicitions of 10th Fold Dataset with <paper_id> are stored in Tab Value Separated CSV file named "results.csv"
+
 Following are the steps to run the program:
 
 1. git clone https://github.com/feezakhankhanzada/CoraDataset.git
