@@ -1,0 +1,7 @@
+pandas
+scikit-learn
+
+torch
+torch_geometric
+torch_sparse
+torch_scatter
